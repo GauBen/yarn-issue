@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "type": "module",
+  "main": "index.js",
+  "workspaces": [
+    "demo"
+  ],
+  "peerDependencies": {
+    "formgator": "*"
+  },
+  "peerDependenciesMeta": {
+    "formgator": {
+      "optional": true
+    }
+  },
+  "packageManager": "yarn@4.5.0"
+}
