@@ -16,10 +16,5 @@ __metadata:
 "hello@workspace:*, hello@workspace:.":
   version: 0.0.0-use.local
   resolution: "hello@workspace:."
-  peerDependencies:
-    formgator: "*"
-  peerDependenciesMeta:
-    formgator:
-      optional: true
   languageName: unknown
   linkType: soft
